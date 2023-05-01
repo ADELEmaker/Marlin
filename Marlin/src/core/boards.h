@@ -94,29 +94,30 @@
 #define BOARD_RAMPS_ENDER_4           1138  // Creality: Ender-4, CR-8
 #define BOARD_RAMPS_CREALITY          1139  // Creality: CR10S, CR20, CR-X
 #define BOARD_DAGOMA_F5               1140  // Dagoma F5
-#define BOARD_FYSETC_F6_13            1141  // FYSETC F6 1.3
-#define BOARD_FYSETC_F6_14            1142  // FYSETC F6 1.4
-#define BOARD_DUPLICATOR_I3_PLUS      1143  // Wanhao Duplicator i3 Plus
-#define BOARD_VORON                   1144  // VORON Design
-#define BOARD_TRONXY_V3_1_0           1145  // Tronxy TRONXY-V3-1.0
-#define BOARD_Z_BOLT_X_SERIES         1146  // Z-Bolt X Series
-#define BOARD_TT_OSCAR                1147  // TT OSCAR
-#define BOARD_OVERLORD                1148  // Overlord/Overlord Pro
-#define BOARD_HJC2560C_REV1           1149  // ADIMLab Gantry v1
-#define BOARD_HJC2560C_REV2           1150  // ADIMLab Gantry v2
-#define BOARD_TANGO                   1151  // BIQU Tango V1
-#define BOARD_MKS_GEN_L_V2            1152  // MKS GEN L V2
-#define BOARD_MKS_GEN_L_V21           1153  // MKS GEN L V2.1
-#define BOARD_COPYMASTER_3D           1154  // Copymaster 3D
-#define BOARD_ORTUR_4                 1155  // Ortur 4
-#define BOARD_TENLOG_D3_HERO          1156  // Tenlog D3 Hero IDEX printer
-#define BOARD_RAMPS_S_12_EEFB         1157  // Ramps S 1.2 by Sakul.cz (Power outputs: Hotend0, Hotend1, Fan, Bed)
-#define BOARD_RAMPS_S_12_EEEB         1158  // Ramps S 1.2 by Sakul.cz (Power outputs: Hotend0, Hotend1, Hotend2, Bed)
-#define BOARD_RAMPS_S_12_EFFB         1159  // Ramps S 1.2 by Sakul.cz (Power outputs: Hotend, Fan0, Fan1, Bed)
-#define BOARD_LONGER3D_LK1_PRO        1160  // Longer LK1 PRO / Alfawise U20 Pro (PRO version)
-#define BOARD_LONGER3D_LKx_PRO        1161  // Longer LKx PRO / Alfawise Uxx Pro (PRO version)
-#define BOARD_ZRIB_V53                1162  // Zonestar zrib V5.3 (Chinese RAMPS replica)
-#define BOARD_PXMALION_CORE_I3        1163  // Pxmalion Core I3
+#define BOARD_DAGOMA_D6               1141  // Dagoma D6
+#define BOARD_FYSETC_F6_13            1142  // FYSETC F6 1.3
+#define BOARD_FYSETC_F6_14            1143  // FYSETC F6 1.4
+#define BOARD_DUPLICATOR_I3_PLUS      1144  // Wanhao Duplicator i3 Plus
+#define BOARD_VORON                   1145  // VORON Design
+#define BOARD_TRONXY_V3_1_0           1146  // Tronxy TRONXY-V3-1.0
+#define BOARD_Z_BOLT_X_SERIES         1147  // Z-Bolt X Series
+#define BOARD_TT_OSCAR                1148  // TT OSCAR
+#define BOARD_OVERLORD                1149  // Overlord/Overlord Pro
+#define BOARD_HJC2560C_REV1           1150  // ADIMLab Gantry v1
+#define BOARD_HJC2560C_REV2           1151  // ADIMLab Gantry v2
+#define BOARD_TANGO                   1152  // BIQU Tango V1
+#define BOARD_MKS_GEN_L_V2            1153  // MKS GEN L V2
+#define BOARD_MKS_GEN_L_V21           1154  // MKS GEN L V2.1
+#define BOARD_COPYMASTER_3D           1155  // Copymaster 3D
+#define BOARD_ORTUR_4                 1156  // Ortur 4
+#define BOARD_TENLOG_D3_HERO          1157  // Tenlog D3 Hero IDEX printer
+#define BOARD_RAMPS_S_12_EEFB         1158  // Ramps S 1.2 by Sakul.cz (Power outputs: Hotend0, Hotend1, Fan, Bed)
+#define BOARD_RAMPS_S_12_EEEB         1159  // Ramps S 1.2 by Sakul.cz (Power outputs: Hotend0, Hotend1, Hotend2, Bed)
+#define BOARD_RAMPS_S_12_EFFB         1160  // Ramps S 1.2 by Sakul.cz (Power outputs: Hotend, Fan0, Fan1, Bed)
+#define BOARD_LONGER3D_LK1_PRO        1161  // Longer LK1 PRO / Alfawise U20 Pro (PRO version)
+#define BOARD_LONGER3D_LKx_PRO        1162  // Longer LKx PRO / Alfawise Uxx Pro (PRO version)
+#define BOARD_ZRIB_V53                1163  // Zonestar zrib V5.3 (Chinese RAMPS replica)
+#define BOARD_PXMALION_CORE_I3        1164  // Pxmalion Core I3
 
 //
 // RAMBo and derivatives
